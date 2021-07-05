@@ -3,9 +3,6 @@
 
 # 👋🏾 HI! I'm FullSatack Web Developer 😎
 </div>
-<br>
-<br>
-<br>
 
 ## AboutMe.html
 ```html
