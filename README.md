@@ -14,7 +14,7 @@
   <body>
     <h1>Soy de Argentina, Tucumán</h1>
     <p>
-      Actualmente formo parte del desarrollo de un proyecto académico de E-comercer en equipo,
+      Actualmente formo parte del desarrollo de un proyecto académico de E-comercer en equipo para un cliente real,
       en donde mi área asignada es la de Back-end.
     </p>
     <p>
