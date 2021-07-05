@@ -15,7 +15,7 @@
     <h1>Soy de Argentina, Tucumán</h1>
     <p>
       Actualmente formo parte del desarrollo de un proyecto académico de E-comercer en equipo,
-      en donde el área en el que trabajo es la de Back-end.
+      en donde mi área asignada es la de Back-end.
     </p>
     <p>
       En paralelo brindo clases de apoyo en programación online tanto a alumnos de Latinoamérica como España.
