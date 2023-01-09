@@ -12,7 +12,10 @@
   <body>
     <h1>Soy de Argentina, Tucumán</h1>
     <p>
-      Me dedico al desarrollo de aplicaciones web hace 2 años y me destaco en backend con Node.js, SQL y MongoDB. Tambien me siento comodo trabajando en frontend con React.js y frameworks o preprocesadores css 
+      Me dedico al desarrollo de aplicaciones web con javascript hace 2 años y me destaco en backend con Node.js y manejo de bases de datos.
+      Tambien me siento comodo trabajando en frontend con React.js y frameworks o preprocesadores css.
+      Actualmente estoy incursionando en el mundo del desarrollo mobile con React Native.
+      Y adicionalmente estoy empezando a desarrollar en PHP porque siempre me gusta ir en contra de las modas y juzgar por mi mismo 😉.
     </p>
     <p>
       En paralelo brindo clases de apoyo en programación online tanto a alumnos de Latinoamérica como España.
