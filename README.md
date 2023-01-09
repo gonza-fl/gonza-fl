@@ -1,7 +1,7 @@
 <div align="center">
 <img height=250 src="https://media3.giphy.com/media/L8K62iTDkzGX6/giphy.gif?cid=790b7611f2c104b3e9bef4fcd60be69dc67b5d0882e89af3&rid=giphy.gif&ct=g"/>
 
-# 👋🏾 HI! I'm a FullStack Web Developer 😎
+# 👋🏾 HI! I'm a FullStack Web Developer with specialization in backend. 😎
 </div>
 <br>
 
@@ -12,8 +12,7 @@
   <body>
     <h1>Soy de Argentina, Tucumán</h1>
     <p>
-      Actualmente formo parte del desarrollo de un proyecto académico de E-comercer en equipo para un cliente real,
-      en donde mi área asignada es la de Back-end.
+      Me dedico al desarrollo de aplicaciones web hace 2 años y me destaco en backend con Node.js, SQL y MongoDB. Tambien me siento comodo trabajando en frontend con React.js y frameworks o preprocesadores css 
     </p>
     <p>
       En paralelo brindo clases de apoyo en programación online tanto a alumnos de Latinoamérica como España.
