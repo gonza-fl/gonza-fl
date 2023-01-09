@@ -12,33 +12,33 @@
   <body>
     <h1>Soy de Argentina, Tucumán</h1>
     <p>
-      Me dedico al desarrollo de aplicaciones web con javascript hace 2 años y me destaco en backend con Node.js y manejo de bases de datos.
+      Me dedico al desarrollo de aplicaciones web con javascript hace 2 años y me destaco en backend con Node.js
+      y manejo de bases de datos .
       Tambien me siento comodo trabajando en frontend con React.js y frameworks o preprocesadores css.
       Actualmente estoy incursionando en el mundo del desarrollo mobile con React Native.
-      Y adicionalmente estoy empezando a desarrollar en PHP porque siempre me gusta ir en contra de las modas y juzgar por mi mismo 😉.
+      Y adicionalmente estoy empezando a desarrollar en PHP porque siempre me gusta ir en contra de las modas
+      y juzgar por mi mismo 😉.
     </p>
     <p>
-      En paralelo brindo clases de apoyo en programación online tanto a alumnos de Latinoamérica como España.
-      Esto me lleva a nuevos desafíos y muchas veces a conocer nuevas tecnologías y lenguajes de programación.
-      También estoy estudiando el área de Testing por mi cuenta ya que es algo me interesa mucho.
+      Tambien tengo experiencia de 2 como Mentor, tanto dando clases para academias de programación con comisiones
+      de entre 15 y 30 personas, como clases particulares a personas de distintos paises de habla hispana.
     </p>
     <p>
-      Soy un apasionado del trabajo en equipo y me gusta ser el que se preocupa por el buen clima de trabajo y equipo,
-      ser un poco el mediador si es necesario y me gusta ponerle buen humor al ambiente.
+      Soy un apasionado del trabajo en equipo y enseñar incluso por amor al arte, me gusta tener un rol activo y me preocupo
+      por el buen clima de trabajo, y la organización y motivación de equipos.
+      Me gusta aplicar la escucha y comunicacion efectiva ponerle buen humor al ambiente 🙃.
     </p>
   </body>
 </html>
 ```
 ## Skills.js
 ```js
-const MAIN_LANGUAGE = JavaScript
-const PERN_STACK = {
-  PostgreSQL: 💜,
-  Express: 🧡,
-  ReactJS: 💙,
-  NodeJS: 💚,
-}
-const extraTechSkills = ["Figma", "Firebase", "Sequelize", "Git", "TypeScript", "Styled-Components"]
+const devSkills = {
+  🐱‍👤: ["Node.js", "Express.js", "Sequelize", "PostgreSQL", "React.js"],
+  🤠: ["React Native", "MongoDB", "Mongoose", "Firebase"],
+  👨🏽‍🔬: ["Nest.js", "JEST", "TypeORM", "PHP"],
+};
+const extraSkills = ["GIT", "GitHub", "Scrum", "Trello", "Jira"];
 ```
 ## Projects
 
