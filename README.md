@@ -40,15 +40,3 @@ const devSkills = {
 };
 const extraSkills = ["GIT", "GitHub", "Scrum", "Trello", "Jira"];
 ```
-## Projects
-
-<div align="center">
-  
-  ### KMORA
-  
-  <img width=300 src="https://user-images.githubusercontent.com/29445888/124522053-32c68200-ddc8-11eb-8fba-94ff0770ada2.png"/>
-  <img width=300 src="https://user-images.githubusercontent.com/29445888/124522163-9650af80-ddc8-11eb-94e3-25ec05b6c778.png"/>
-  <img width=300 src="https://user-images.githubusercontent.com/29445888/124522215-d748c400-ddc8-11eb-952b-64c73923779d.png"/>
-  <img width=200 src="https://user-images.githubusercontent.com/29445888/124522243-ef204800-ddc8-11eb-9624-2ebb6c7c51d5.png"/>
-  <img width=200 src="https://user-images.githubusercontent.com/29445888/124522244-f0ea0b80-ddc8-11eb-8e9f-75356e7d0e26.png"/>
-</div>
