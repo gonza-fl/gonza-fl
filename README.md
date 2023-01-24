@@ -34,9 +34,9 @@
 ## Skills.js
 ```js
 const devSkills = {
-  🐱‍👤: ["Node.js", "Express.js", "Sequelize", "PostgreSQL", "React.js"],
-  🤠: ["React Native", "MongoDB", "Mongoose", "Firebase"],
-  👨🏽‍🔬: ["Nest.js", "JEST", "TypeORM", "PHP"],
+  "🐱‍👤-expertiz": ["Node.js", "Express.js", "Sequelize", "PostgreSQL", "React.js"],
+  "🤠-amplio-dominio": ["React Native", "MongoDB", "Mongoose", "Firebase"],
+  "👨🏽‍🔬-buen manejo": ["Nest.js", "JEST", "TypeORM", "PHP"],
 };
 const extraSkills = ["GIT", "GitHub", "Scrum", "Trello", "Jira"];
 ```
