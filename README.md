@@ -1,7 +1,7 @@
 <div align="center">
 <img height=250 src="https://media3.giphy.com/media/L8K62iTDkzGX6/giphy.gif?cid=790b7611f2c104b3e9bef4fcd60be69dc67b5d0882e89af3&rid=giphy.gif&ct=g"/>
 
-# 👋🏾 HI! I'm a Full Stack Web Developer with specialization in Back End. 😎
+# 👋🏾 HI! I'm a Full Stack Web Developer with specialization in Back-end. 😎
 </div>
 <br>
 
@@ -35,8 +35,8 @@
 ```js
 const devSkills = {
   "🐱‍👤-expertiz": ["Node.js", "Express.js", "Sequelize", "PostgreSQL", "React.js"],
-  "🤠-amplio-dominio": ["React Native", "MongoDB", "Mongoose", "Firebase"],
-  "👨🏽‍🔬-buen manejo": ["Nest.js", "JEST", "TypeORM", "PHP"],
+  "🤠-amplio-dominio": ["React Native", "TypeScript", "MongoDB", "Mongoose", "Firebase"],
+  "👨🏽‍🔬-buen manejo": ["Nest.js", "JEST", "TypeORM", "Python"],
 };
 const extraSkills = ["GIT", "GitHub", "Scrum", "Trello", "Jira"];
 ```
