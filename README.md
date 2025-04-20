@@ -1,42 +1,56 @@
 <div align="center">
-<img height=250 src="https://media3.giphy.com/media/L8K62iTDkzGX6/giphy.gif?cid=790b7611f2c104b3e9bef4fcd60be69dc67b5d0882e89af3&rid=giphy.gif&ct=g"/>
-
-# 👋🏾 HI! I'm a Full Stack Web Developer with specialization in Back-end. 😎
+  <img src="https://media3.giphy.com/media/L8K62iTDkzGX6/giphy.gif?cid=790b7611f2c104b3e9bef4fcd60be69dc67b5d0882e89af3&rid=giphy.gif&ct=g" height="200" />
+  
+  # 👋🏾 ¡Hola! Soy Full Stack Web Developer con foco en Back-end 😎
 </div>
-<br>
 
-## AboutMe.html
-```html
-<hmtl lang=es>
-  <head>...</head>
-  <body>
-    <h1>Soy de Argentina, Tucumán</h1>
-    <p>
-      Me dedico al desarrollo de aplicaciones web con javascript hace 2 años y me destaco en backend con Node.js
-      y manejo de bases de datos .
-      Tambien me siento comodo trabajando en frontend con React.js y frameworks o preprocesadores css.
-      Actualmente estoy incursionando en el mundo del desarrollo mobile con React Native.
-      Y adicionalmente estoy empezando a desarrollar en PHP porque siempre me gusta ir en contra de las modas
-      y juzgar por mi mismo 😉.
-    </p>
-    <p>
-      Tambien tengo experiencia de 2 como Mentor, tanto dando clases para academias de programación con comisiones
-      de entre 15 y 30 personas, como clases particulares a personas de distintos paises de habla hispana.
-    </p>
-    <p>
-      Soy un apasionado del trabajo en equipo y enseñar incluso por amor al arte, me gusta tener un rol activo y me preocupo
-      por el buen clima de trabajo, y la organización y motivación de equipos.
-      Me gusta aplicar la escucha y comunicacion efectiva ponerle buen humor al ambiente 🙃.
-    </p>
-  </body>
-</html>
-```
-## Skills.js
-```js
-const devSkills = {
-  "🐱‍👤-expertiz": ["Node.js", "Express.js", "Sequelize", "PostgreSQL", "React.js"],
-  "🤠-amplio-dominio": ["React Native", "TypeScript", "MongoDB", "Mongoose", "Firebase"],
-  "👨🏽‍🔬-buen manejo": ["Nest.js", "JEST", "TypeORM", "Python"],
-};
-const extraSkills = ["GIT", "GitHub", "Scrum", "Trello", "Jira"];
-```
+---
+
+### 🧑🏽 Sobre mí
+
+- 📍 Vivo en **Tucumán, Argentina**
+- 💻 Me dedico al desarrollo web desde hace más de 2 años
+- 🧠 Apasionado por el **Back-end**, pero con fuertes skills en **Front-end**
+- 📱 Explorando el mundo mobile con **React Native**
+- 🤓 Me gusta aprender tecnologías nuevas sin prejuicios: sí, ¡también estoy metiéndome con **PHP** y **Laravel**!
+- 👨🏽‍🏫 Tengo experiencia como **Mentor y docente**, tanto en academias como en clases particulares
+- 🤝 Amante del trabajo en equipo, la buena onda y la comunicación efectiva
+
+---
+
+### 🛠️ Tech Stack
+
+#### 💡 Principales tecnologías
+
+- **Back-end**: Node.js, Express, NestJS, Laravel, PHP
+- **Front-end**: React, Next.js, TypeScript, TailwindCSS
+- **Mobile**: React Native
+- **Bases de datos**: PostgreSQL, MySQL, MongoDB, Firebase
+- **ORMs**: Sequelize, TypeORM, Prisma
+
+#### 🧪 Testing & herramientas
+
+- Jest, Postman, Docker, Git, GitHub, Trello, Jira, Notion
+
+---
+
+### 📈 Actualmente...
+
+- Trabajando en proyectos Full Stack con **NestJS** y **React Native**
+- Desarrollando **librerías propias** para autenticación en microfrontends
+- Aprendiendo más sobre **arquitecturas escalables**, DevOps y productividad
+
+---
+
+### 📬 Contacto
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/tuusuario)
+- 📧 tunombre@mail.com
+- 🌐 [Portfolio](https://tusitio.dev) (opcional)
+
+---
+
+### 🙌 Fun Fact
+
+Siempre trato de **romper mitos y modas**: prefiero probar las tecnologías yo mismo y formarme una opinión propia.  
+Spoiler: PHP no es tan malo si sabés lo que hacés 😉
