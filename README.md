@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://media3.giphy.com/media/L8K62iTDkzGX6/giphy.gif?cid=790b7611f2c104b3e9bef4fcd60be69dc67b5d0882e89af3&rid=giphy.gif&ct=g" height="200" />
   
-  # 👋🏾 ¡Hola! Soy Full Stack Web Developer con foco en Back-end 😎
+  # 👋🏾 ¡Hola! Desarrollador web y mobile (Front/Back) 😎
 </div>
 
 ---
@@ -52,4 +52,4 @@
 ### 🙌 Fun Fact
 
 Siempre trato de **romper mitos y modas**: prefiero probar las tecnologías yo mismo y formarme una opinión propia.  
-Spoiler: PHP no es tan malo si sabés lo que hacés 😉
+Spoiler: Generalmente lo peor de PHP se ubica entre el teclado y la silla de escritorio 🤡
