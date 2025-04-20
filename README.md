@@ -6,7 +6,7 @@
 
 ---
 
-### 🧑🏽 Sobre mí
+### 🧔🏽‍♂️ Sobre mí
 
 - 📍 Vivo en **Tucumán, Argentina**
 - 💻 Me dedico al desarrollo web desde hace más de 4 años
