@@ -9,7 +9,7 @@
 ### 🧑🏽 Sobre mí
 
 - 📍 Vivo en **Tucumán, Argentina**
-- 💻 Me dedico al desarrollo web desde hace más de 2 años
+- 💻 Me dedico al desarrollo web desde hace más de 4 años
 - 🧠 Apasionado por el **Back-end**, pero con fuertes skills en **Front-end**
 - 📱 Explorando el mundo mobile con **React Native**
 - 🤓 Me gusta aprender tecnologías nuevas sin prejuicios: sí, ¡también estoy metiéndome con **PHP** y **Laravel**!
@@ -44,9 +44,8 @@
 
 ### 📬 Contacto
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/tuusuario)
-- 📧 tunombre@mail.com
-- 🌐 [Portfolio](https://tusitio.dev) (opcional)
+- 💼 [LinkedIn](https://www.linkedin.com/in/gonza-flamenci)
+- 📧 gonzaloflamenci4@gmail.com
 
 ---
 
