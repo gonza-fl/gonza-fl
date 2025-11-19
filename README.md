@@ -25,31 +25,11 @@
 - **Back-end**: Node.js, Express, NestJS, Laravel, PHP
 - **Front-end**: React, Next.js, TypeScript, TailwindCSS
 - **Mobile**: React Native
-- **Bases de datos**: PostgreSQL, MySQL, MongoDB, Firebase
+- **Bases de datos**: PostgreSQL, MySQL, MongoDB, Firebase, Supabase
 - **ORMs**: Sequelize, TypeORM, Prisma
-
-#### 🧪 Testing & herramientas
-
-- Jest, Postman, Docker, Git, GitHub, Trello, Jira, Notion
-
----
-
-### 📈 Actualmente...
-
-- Trabajando en proyectos Full Stack con **NestJS** y **React Native**
-- Desarrollando **librerías propias** para autenticación en microfrontends
-- Aprendiendo más sobre **arquitecturas escalables**, DevOps y productividad
-
----
-
-### 📬 Contacto
-
-- 💼 [LinkedIn](https://www.linkedin.com/in/gonza-flamenci)
-- 📧 gonzaloflamenci4@gmail.com
 
 ---
 
 ### 🙌 Fun Fact
 
-Siempre trato de **romper mitos y modas**: prefiero probar las tecnologías yo mismo y formarme una opinión propia.  
-Spoiler: Generalmente lo peor de PHP se ubica entre el teclado y la silla de escritorio 🤡
+Generalmente lo peor de PHP se ubica entre el teclado y la silla de escritorio 🤡
